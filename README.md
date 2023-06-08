@@ -1,9 +1,5 @@
 # Youtube-Video-Downloader
-This simple little project I devleoepd for personal use and the use of family and friends.
- 
-Simply: download the .exe file
-
-Launch the application and paste the url of the youtube video into the application and hit enter. 
+This simple little project I developed for personal use and the use of family and friends. 
 
 The application will downlaod the highest resolution version of the video available and store it in the same directory the application is in.
 
